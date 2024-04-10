@@ -2,7 +2,7 @@
   "name": "test-dep",
   "displayName": "test dep",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "Knork",
   "engines": {
     "vscode": "^1.88.0"
