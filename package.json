@@ -2,11 +2,11 @@
   "name": "test-dep",
   "displayName": "test dep",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
-		"type": "git",
-		"url": "https://github.com/Kn0rk/test-dep"
-	},
+    "type": "git",
+    "url": "https://github.com/Kn0rk/test-dep"
+  },
   "publisher": "Knork",
   "engines": {
     "vscode": "^1.88.0"
